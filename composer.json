@@ -1,5 +1,5 @@
 {
-    "name": "mercator/flagbit_changeattributeset",
+    "name": "mercator/Magento-ChangeAttributeSet",
     "type": "magento-module",
     "description": "Mercator repository for Flagbit_ChangeAttributeSet. Allows changing the attribute set of products.",
     "homepage": "https://github.com/Flagbit/Magento-ChangeAttributeSet",
